@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parallax Wallpaper</string>
+    <string name="wallpaper_name">3D Parallax</string>
+    <string name="wallpaper_description">Tilt your phone to see layers float with depth</string>
+    <string name="settings_title">Parallax Settings</string>
+    <string name="depth_strength">Depth Strength</string>
+</resources>
